@@ -39,7 +39,8 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
     font-size: 3.5vw;
 }
 section > p{
@@ -64,12 +65,12 @@ section.imagem >p {
 }
 section#img1{
     background-image: url(imagens/background001.jpg);
-    background-position: right center;
+    background-position: center center;
     background-size: cover;
 }
 section#img2{
     background-image: url(imagens/background002.jpg);
-    background-position: right center;
+    background-position: center center;
     background-size: cover;
 }
 
